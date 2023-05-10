@@ -11,7 +11,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/abelwhite/4191/internal/data"
+	"github.com/LuffyVairez/4191/internal/data"
 	_ "github.com/jackc/pgx/v5/stdlib"
 )
 

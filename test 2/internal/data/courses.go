@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/luffyvairez/4191/internal/validator"
+	"github.com/LuffyVairez/4191/internal/validator"
 )
 
 // Course represents one row of data in our Courses table
