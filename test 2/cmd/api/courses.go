@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/abelwhite/4191/internal/data"
-	"github.com/abelwhite/4191/internal/validator"
+	"github.com/LuffyVairez/4191/internal/data"
+	"github.com/LuffyVairez/4191/internal/validator"
 )
 
 func (app *application) createCourseHandler(w http.ResponseWriter, r *http.Request) {
